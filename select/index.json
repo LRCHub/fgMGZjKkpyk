@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "メルヘル小惑星",
+  "base_artist": "NANAOAKARI",
+  "createdAt": "2026-03-25T16:22:36.132829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メルヘル小惑星",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/01_メルヘル小惑星_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メルヘル小惑星",
+      "artist": "Nanawo, Akari",
+      "has_synced": true,
+      "path": "select/02_メルヘル小惑星_Nanawo,_Akari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メルヘル小惑星",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/03_メルヘル小惑星_NANAOAKARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メルヘル小惑星",
+      "artist": "ナナヲアカリ (Nanawoakari)",
+      "has_synced": true,
+      "path": "select/04_メルヘル小惑星_ナナヲアカリ_(Nanawoakari).lrc"
+    }
+  ]
+}
